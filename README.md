@@ -1,16 +1,22 @@
-### Hi there 👋
+# ![banner](https://github.com/Richard-Teske/Richard-Teske/blob/main/icons/main_banner.png)
 
-<!--
-**Richard-Teske/Richard-Teske** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+You are knowing the biggest Data Engineer of my neighborhood 🤣
+</p>
 
-Here are some ideas to get you started:
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Hi Folksss!
+
+Meu nome é Richard, trabalho com **Engenharia de Dados** e ajudo companias a obter melhores soluções na era do **Big Data**. Sou apaixonado por novos aprendizados e compartilhar conhecimentos. Um pouco sobre min:
+
+
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
+- ⏳ Trabalhando na area de T.I (e dados) desde **2019**
+- 💼 Atualmente trabalhando na [**MadeiraMadeira**](https://www.madeiramadeira.com.br/)
+- 🥋 Mestre no **Python**
+- 📙 Estudando **Kubernetes**
+- 🔎 Procurando **ajudar pessoas**
+- 🎮 Hobbye: **Games & Travel** 🛩
