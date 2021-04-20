@@ -1,8 +1,8 @@
 # ![banner](https://github.com/Richard-Teske/Richard-Teske/blob/main/icons/main_banner.png)
 
-<p align="center">
+<h3 align='center'>
 You are knowing the biggest Data Engineer of my neighborhood 🤣
-</p>
+</h3>
 
 <br>
 <br>
@@ -20,3 +20,17 @@ Meu nome é Richard, trabalho com **Engenharia de Dados** e ajudo companias a ob
 - 📙 Estudando **Kubernetes**
 - 🔎 Procurando **ajudar pessoas**
 - 🎮 Hobbye: **Games & Travel** 🛩
+
+
+
+<p>
+  <a href="https://www.linkedin.com/in/richard-teske-25b88214b/"><img width="60" height="30" align='right' src="https://github.com/Richard-Teske/Richard-Teske/blob/main/icons/linkedin-icon.png"></a>&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/richardaraujodba"><img width="60" height="30" align='right' src="https://github.com/Richard-Teske/Richard-Teske/blob/main/icons/kaggle-icon.png"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/living.mylifee/"><img width="30" height="30" align='right' src="https://github.com/Richard-Teske/Richard-Teske/blob/main/icons/instagram-icon.png"></a>
+</p>
+
+
+<br>
+<br>
+ 
+<h4 align='center'><i>Stay safe!</i></h4>
