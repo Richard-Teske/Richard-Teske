@@ -14,7 +14,7 @@ Meu nome é Richard, trabalho com **Engenharia de Dados** e ajudo companias a ob
 
 
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
-- ⏳ Trabalhando na area de T.I (e dados) desde **2019**
+- ⏳ Trabalhando na area de T.I (e dados) desde **2018**
 - 💼 Atualmente trabalhando na [**MadeiraMadeira**](https://www.madeiramadeira.com.br/)
 - 🥋 Mestre no **Python**
 - 📙 Estudando **Kubernetes**
