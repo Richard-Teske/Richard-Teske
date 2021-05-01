@@ -1,4 +1,4 @@
-# ![banner](https://github.com/Richard-Teske/Richard-Teske/blob/main/icons/main_banner.png)
+# ![banner](https://github.com/Richard-Teske/Richard-Teske/blob/main/main_banner.png)
 
 <h3 align='center'>
 You are knowing the biggest Data Engineer of my neighborhood 🤣
