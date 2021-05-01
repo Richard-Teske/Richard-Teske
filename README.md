@@ -23,12 +23,9 @@ Meu nome é Richard, trabalho com **Engenharia de Dados** e ajudo companias a ob
 
 
 
-<p>
-  <a href="https://www.linkedin.com/in/richard-teske-25b88214b/"><img width="60" height="30" align='right' src="https://github.com/Richard-Teske/Richard-Teske/blob/main/icons/linkedin-icon.png"></a>&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/richardaraujodba"><img width="60" height="30" align='right' src="https://github.com/Richard-Teske/Richard-Teske/blob/main/icons/kaggle-icon.png"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/living.mylifee/"><img width="30" height="30" align='right' src="https://github.com/Richard-Teske/Richard-Teske/blob/main/icons/instagram-icon.png"></a>
-</p>
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richard-teske-25b88214b/)](https://www.linkedin.com/in/richard-teske-25b88214b/)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-white?style=flat-square&logo=Kaggle&logoColor=#44c1f4&link=https://www.kaggle.com/richardaraujodba)](https://www.kaggle.com/richardaraujodba)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=flat-square&logo=Instagram&logoColor=#ed4b61&link=https://www.instagram.com/living.mylifee/)](https://www.instagram.com/living.mylifee/)
 
 <br>
 <br>
