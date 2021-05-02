@@ -21,7 +21,11 @@ Meu nome é Richard, trabalho com **Engenharia de Dados** e ajudo companias a ob
 - 🔎 Procurando **ajudar pessoas**
 - 🎮 Hobbye: **Games & Travel** 🛩
 
+<br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Teske&layout=compact)](https://github.com/Richard-Teske)
+
+<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richard-teske-25b88214b/)](https://www.linkedin.com/in/richard-teske-25b88214b/)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-white?style=flat-square&logo=Kaggle&logoColor=#44c1f4&link=https://www.kaggle.com/richardaraujodba)](https://www.kaggle.com/richardaraujodba)
