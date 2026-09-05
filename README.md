@@ -3,7 +3,7 @@
 
 This is my Github profile where I make self projects, be welcome!
 
-I'm Richard, I live in <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="12"/> <b>Curitiba, Brazil</b>, currently working as <b>Data Platform Engineer</b> at <b>MadeiraMadeira</b>
+I'm Richard, I live in <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="12"/> <b>Curitiba, Brazil</b>, currently working as <b>Data Platform Engineer</b> at <b>Inter</b>
 
 <h3>About me</h3>
 
