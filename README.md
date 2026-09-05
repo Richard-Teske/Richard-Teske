@@ -9,7 +9,7 @@ I'm Richard, I live in <img src="https://cdn-icons-png.flaticon.com/512/197/1973
 
 - 🎓 Graduated in **System Development**
 - ⏳ Working in I.T industry since **2018**
-- 💼 Now I'm working at [**MadeiraMadeira**](https://www.madeiramadeira.com.br/)
+- 💼 Now I'm working at [**Inter**](https://inter.co)
 - 💙 Really like to code in **Python**
 - 📙 Studying **Kubernetes & Kafka**
 - 🔎 I'm looking for **helping people**
